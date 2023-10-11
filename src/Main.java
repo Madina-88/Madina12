@@ -40,7 +40,7 @@ public class Main {
             System.out.println("поздравляю загадал "+num2);
         }*/
 
-
+        System.out.println("asdasd");
         /*System.out.println("Загадай число от 1 до 20:");
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
